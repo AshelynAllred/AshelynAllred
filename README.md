@@ -3,7 +3,7 @@
 
 My name is Ashelyn! (I'll let you guess what my last name is)
 
-My day job requires me to frequently write scripts with a modified program-specific Visual Basic (Cabinet Vision), and the occasiona powershell/batch file. 
+My day job requires me to frequently write scripts with a modified program-specific Visual Basic (Cabinet Vision), and the occasional powershell/batch file. 
 I really enjoy frontend development and spend a lot of time making things look pretty. In the past, I've contributed to developments written in C#, Java, JavaScript, and Python, 
 mostly mods for games I enjoy playing, standalone game developments (e.g., in Godot or Unity), or just neat little tools to make my day to day easier.
 
