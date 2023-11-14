@@ -9,7 +9,7 @@ mostly mods for games I enjoy playing, standalone game developments (e.g., in Go
 
 Most of my work is either lost to time, not in a repo, or on accounts I'd rather not share right now. Feel free to ask me about the projects though!
 
-If you'd like a CSS/web dev example of my work, I recently reworked a Shopify frontend for The Daily Grind TCG's website. [Check it out](https://www.thedailygrindtcg.com)!
+If you'd like a CSS/web dev example of my work, I recently reworked a Shopify frontend for The Daily Grind TCG's website. [Check it out](https://www.thedailygrindtcg.com)! (update: website is currently down due to matters between the business and shopify, but I have screenshots of the website available as a project on my LinkedIn page. Sorry about that)
 
 I'm currently taking a course on Data Analytics, which I hope to be able to use to make cool graphs or something for companies that pay for that sort of thing.
 If you've got any good portfolio-building projects you could use a helping hand on, definitely reach out!
