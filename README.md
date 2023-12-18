@@ -1,4 +1,4 @@
-## Welcome to my HitHub!
+## Welcome to my GitHub!
 ### Here's a bit about me:
 
 My name is Ashelyn! (I'll let you guess what my last name is)
