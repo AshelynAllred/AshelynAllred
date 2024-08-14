@@ -11,7 +11,7 @@ Most of my work is either lost to time, not in a repo, or on accounts I'd rather
 
 If you'd like a CSS/web dev example of my work, I recently reworked a Shopify frontend for The Daily Grind TCG's website. (update: website is currently down due to matters between the business and shopify, but I have screenshots of the website available as a project on my LinkedIn page. Sorry about that)
 
-I'm currently taking a course on Data Analytics, which I hope to be able to use to make cool graphs or something for companies that pay for that sort of thing.
+I am certified in Data Analytics through the UTSA Alvarez College of Business' 2U Bootcamp.
 If you've got any good portfolio-building projects you could use a helping hand on, definitely reach out!
 Speaking of, the best way to get ahold of me would be via email ("ashelyn.allred@ _ gmail. _ com" with the spaces and underscores removed. The email is formatted this way to hopefully prevent inbox spam from web scrapers.)
 
